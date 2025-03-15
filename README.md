@@ -9,5 +9,5 @@
 <br>- **Efficient Data Management:** Efficient handling of student data, including enrollment, grades, and personal information.
 <br>- **Secure:** Implements best practices for data security and privacy.
 
-Feel free to explore the code, raise issues, and contribute to the project. Your feedback and contributions are highly appreciated!
+Feel free to explore the code. Your feedback and contributions are highly appreciated!
 
